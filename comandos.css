@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color : #212121;
+}
+.comandos{
+    margin: 10px;
+    margin-top: 50px;
+    width: 1200px;
+    height: 600px;
+    background-color: #121212;
+    border-radius: 8px;
+    padding: 15px; 
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-items: center; 
+}
+.titulo{
+    color : #ebebeb;
+    font-size: 50px;
+}
+.nome{
+    color : #858483;
+    margin-top: 15px;
+    font-size: large;
+}
+.cor{
+    color : #ebebeb;
+    margin-top: 15px;
+    font-size: large;
+}
+.limpar{
+    color : #cf1515;
+    margin-top: 15px;
+    font-size: large;
+}
+.line{
+    color : #47e62f;
+    margin-top: 15px;
+    font-size: large;
+}
+.conquistas{
+    color : #DAA520;
+    margin-top: 15px;
+    font-size: large;
+}
