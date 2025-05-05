@@ -28,7 +28,7 @@ Este é um projeto de WebChat desenvolvido para o desafio técnico da FURIA. O s
 
    ```bash
    git clone https://github.com/kauanrdd/webchat-furia.git
-   cd webchat-furia
+   cd Furia-Talk
    ```
 
 2. **Instale as dependências**:
