@@ -86,6 +86,8 @@ Este é um projeto de WebChat desenvolvido para o desafio técnico da FURIA. O s
 - O frontend é estático e se comunica diretamente com o backend WebSocket.
 - O projeto não utiliza frameworks como React ou Vue para manter a simplicidade e leveza.
 - O `server.js` está localizado na pasta `src/`.
+- Para iniciar o projeto é necessário acessar o terminal do editor de código(vscode) e digitar cd backend (para acessar a pasta do backend)
+- e depois digitar npm dun dev (para rodar o servidor e tornar o projeto funcional).
 
 ---
 
